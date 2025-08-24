@@ -1,0 +1,5 @@
+package com.klef.Repository;
+
+public interface ProductRepository {
+
+}
