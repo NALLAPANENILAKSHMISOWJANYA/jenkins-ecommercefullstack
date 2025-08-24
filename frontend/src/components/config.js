@@ -1,5 +1,5 @@
 const config = {
-    url: "http://localhost:9000/springbootecommerceapi"
+    url: "http://localhost:2030/springbootecommerceapi"
 }
 
 export default config;
